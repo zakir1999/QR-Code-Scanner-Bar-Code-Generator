@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.8
   qr_flutter: ^4.1.0
   flutter_barcode_scanner: ^2.0.0
+  mobile_scanner: ^6.0.2
+  pretty_qr_code: ^3.3.0
 
 dev_dependencies:
   flutter_test:
